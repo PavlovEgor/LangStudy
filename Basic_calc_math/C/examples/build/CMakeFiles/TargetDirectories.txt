@@ -1,0 +1,4 @@
+/home/SubLimeProjects/Basic_calc_math/examples/build/CMakeFiles/rect.dir
+/home/SubLimeProjects/Basic_calc_math/examples/build/CMakeFiles/main.dir
+/home/SubLimeProjects/Basic_calc_math/examples/build/CMakeFiles/edit_cache.dir
+/home/SubLimeProjects/Basic_calc_math/examples/build/CMakeFiles/rebuild_cache.dir

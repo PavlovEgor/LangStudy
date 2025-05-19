@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/main.dir/MyBI.c.o -o main  -Wl,-rpath,/home/SubLimeProjects/Basic_calc_math/examples/build librect.so 
